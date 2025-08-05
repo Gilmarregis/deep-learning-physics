@@ -6,8 +6,8 @@ Este módulo implementa duas aplicações principais de deep learning na física
 1. Resolução da equação de Schrödinger usando redes neurais (Physics-Informed Neural Networks)
 2. Simulação de dinâmica de partículas com aprendizado de máquina
 
-Autor: Sistema de IA
-Data: 2024
+Autor: Gilmar Sousa
+Data: 2025
 Versão: 1.0
 """
 
